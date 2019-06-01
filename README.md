@@ -1,2 +1,3 @@
 # Bootstrap-Portfolio
-homework2
+Home work 2 insuring we know how to use bootsrap.
+
