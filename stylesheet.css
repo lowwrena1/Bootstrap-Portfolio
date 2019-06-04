@@ -3,14 +3,18 @@
     margin-top: 10px;
     background-color: #ffffff;
     color: #777777;}
+    /*nav link is pretty much the only thing working for me here */
 
-    .name{float: left;
+    #myname {
+        float: left;
         text-align: center;
         background: #4aaaa5;
         padding: 11px;
         color: #ffffff;
         font-family: Cambria, Georgia, serif;
-        font-size: 30px;}
+        font-size: 30px;
+    }
+        /*not centered on my fixed bottom for some reason */
 #fixed-bottom {align-content: center;
 background-color: #777777; }
 
@@ -18,4 +22,17 @@ background-color: #777777; }
     width: 100%;
     background-color: #ffffff;
     border-bottom: 1px solid #777777;}
-    
+
+    .mr-3{ font-family:  Arial, Arial, Helvetica, sans-serif ;
+    text-align: absolute;
+    width: 960px;
+    padding: 100px 200px;
+    background: transparent;
+    border: #dddddd;
+    float: left;}
+    /*this didn't do what I wanted at all, why didn't it work :(*/ 
+   
+   
+   #input-group input-group-sm mb-3 {
+       max-width:960px ;
+   }
