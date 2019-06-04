@@ -1,3 +1,21 @@
-#nav-link {float: right; }
+#nav-link {float: right;
+    height: 40px;
+    margin-top: 10px;
+    background-color: #ffffff;
+    color: #777777;}
 
-#fixed-bottom {align-content: center; }
+    .name{float: left;
+        text-align: center;
+        background: #4aaaa5;
+        padding: 11px;
+        color: #ffffff;
+        font-family: Cambria, Georgia, serif;
+        font-size: 30px;}
+#fixed-bottom {align-content: center;
+background-color: #777777; }
+
+.container {height: 70px;
+    width: 100%;
+    background-color: #ffffff;
+    border-bottom: 1px solid #777777;}
+    
