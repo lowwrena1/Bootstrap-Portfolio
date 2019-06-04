@@ -3,9 +3,7 @@
     margin-top: 10px;
     background-color: #ffffff;
     color: #777777;}
-    /*nav link is pretty much the only thing working for me here */
-
-    #myname {
+ #myname {
         float: left;
         text-align: center;
         background: #4aaaa5;
@@ -30,9 +28,8 @@ background-color: #777777; }
     background: transparent;
     border: #dddddd;
     float: left;}
-    /*this didn't do what I wanted at all, why didn't it work :(*/ 
-   
-   
-   #input-group input-group-sm mb-3 {
+    .placeholder {width: 150px;}
+    
+    #input-group input-group-sm mb-3 {
        max-width:960px ;
    }
