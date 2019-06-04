@@ -13,10 +13,10 @@
         font-size: 30px;
     }
         /*not centered on my fixed bottom for some reason */
-#fixed-bottom {align-content: center;
+.fixed-bottom {align-content: center;
 background-color: #777777; }
 
-.container {height: 70px;
+.navbar {height: 75px;
     width: 100%;
     background-color: #ffffff;
     border-bottom: 1px solid #777777;}
@@ -33,3 +33,13 @@ background-color: #777777; }
     #input-group input-group-sm mb-3 {
        max-width:960px ;
    }
+   .media {margin: 0 auto;
+width:960px; 
+background-color: white;}
+.contactinfo {
+    margin: 0px auto;
+    width: 960px ;
+    padding-top: 40px;
+    background-color: white;
+
+}
